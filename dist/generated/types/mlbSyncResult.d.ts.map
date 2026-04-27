@@ -1,0 +1,1 @@
+{"version":3,"file":"mlbSyncResult.d.ts","sourceRoot":"","sources":["../../../src/generated/types/mlbSyncResult.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE/C,MAAM,WAAW,aAAa;IAC5B,MAAM,EAAE,OAAO,CAAC;IAChB,OAAO,CAAC,EAAE,MAAM,GAAG,IAAI,CAAC;IACxB,aAAa,EAAE,MAAM,CAAC;IACtB,aAAa,EAAE,OAAO,CAAC;IACvB,UAAU,CAAC,EAAE,UAAU,CAAC;CACzB"}
